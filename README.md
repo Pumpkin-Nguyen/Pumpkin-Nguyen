@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **TypeScript, JavaScript, HTML, CSS etc.**
 
+- 🤝 I’m looking for help with **discord.js**
+
 - 📫 How to reach me **nguyenhainam293@pm.me**
 
 <h3 align="left">Connect with me:</h3>
