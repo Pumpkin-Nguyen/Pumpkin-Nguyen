@@ -1,16 +1,59 @@
-<h1 align="center">Hi 👋, I'm Pumpkin!</h1>
-<h3 align="center">A student is learning develop from VietNam</h3>
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWtheDY3dWtrdGt5Z3ltaDI0bXptcGNwN2h2Yndsb2xwNHh4YTBzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/91BCkba1STSmzb4UWK/giphy.gif"  />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pumpkin-nguyen&label=Visitors&color=05b4ff&style=flat" alt="pumpkin-nguyen" /> </p>
+###
 
-- 🌱 I’m currently learning **Rust, Python.**
+<!-- <div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div> -->
 
-- 📫 How to reach me **nguyenhainam293207@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/k5WMutnA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="k5WMutnA" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pumpkin-nguyen&label=Visitors&color=05b4ff&style=flat" alt="pumpkin-nguyen" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Nam from Vietnam<br><br>- 🔭 I’m currently on first-year student at UET - VNU - K70<br>- 📚 I'm currently learning Python, Rust and Korean!<br></p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" height="40" alt="fedora logo" />
+          
+
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
