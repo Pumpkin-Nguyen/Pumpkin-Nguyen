@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Nam from Vietnam<br><br>- 🔭 I’m currently on first-year student at UET - VNU - K70<br>- 📚 I'm currently learning Python, Rust and Korean!<br></p>
+<p align="left">I'm Nguyễn Hải Nam from Vietnam<br><br>- 🔭 I’m currently a first-year IT student at UET - VNU - K70<br>- 📚 I'm currently learning Python, Rust and Korean!<br></p>
 
 ###
 
@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://githubcard.com/pumpkin-nguyen.svg?d=VWv6pHm" height="400" alt="github "  />
 </div>
 
 ###
